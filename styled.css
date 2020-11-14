@@ -1,0 +1,40 @@
+body{
+    background-color: #f7ebdf;
+    
+    }
+div.main{ display: flex;
+    justify-content: center;
+    
+}
+
+h1{
+    text-align: center; color: #f5dad8; background-color: #2c0300; font-size: 100px;
+}
+p{ margin: 10px;
+}
+
+
+div.first{ 
+    
+    width: 340px;
+    height: 540px;
+    border: 1px;
+    display: flex;
+    flex-wrap: wrap; 
+    margin: 50px 20px 50px;
+    justify-content: center;
+    background-color: white;
+    
+     
+    
+ } 
+img{
+    width: 320px;
+    height: 380px;
+    border: 10px solid white;
+       
+}
+div.maintwo{ display: flex;
+    justify-content: center;
+
+}
